@@ -13,9 +13,10 @@ A user-friendly **Bank Gold Loan Application** designed to streamline **KYC regi
 ## Screenshots
 ### Screenshot 1: Dashboard
 ![Dashboard](https://github.com/kaaviyak2004/React-Bank-GoldLoan-Application/blob/e6976d58c5565c8249dc63d751ce81d7dc564f5b/Bank%20Application/Dashboard.png)
-![Dashboard](https://github.com/kaaviyak2004/React-Bank-GoldLoan-Application/blob/e6976d58c5565c8249dc63d751ce81d7dc564f5b/Bank%20Application/Dashboard%201.png)
 ### Screenshot 2: Front Page
 ![Front Page](https://github.com/kaaviyak2004/React-Bank-GoldLoan-Application/blob/e6976d58c5565c8249dc63d751ce81d7dc564f5b/Bank%20Application/Frontpage.png)
+### Screenshot 2.1: Front Page (1)
+![Front Page](https://github.com/kaaviyak2004/React-Bank-GoldLoan-Application/blob/e6976d58c5565c8249dc63d751ce81d7dc564f5b/Bank%20Application/Dashboard%201.png)
 ### Screenshot 3: Create Account Page
 ![Create Account Page](https://github.com/kaaviyak2004/React-Bank-GoldLoan-Application/blob/e6976d58c5565c8249dc63d751ce81d7dc564f5b/Bank%20Application/Create%20Account%20Page.png)
 ### Screenshot 4: Gold Loan Page
